@@ -24,7 +24,7 @@ documentation:
   author:       "maehw"      # Your name
   title:        "4-bit signed integer multiplier"  # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  ""      # Short description of what your project does
+  description:  "two 4-bit signed integer numbers (-8..+7) are multiplied and output as 8-bit signed integer; design made out of logic gates"
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
